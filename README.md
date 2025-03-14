@@ -13,7 +13,7 @@ Content covered during these sessions includes:
 - Gymnasium
 
 ## How to run in Colab?
-Open http://colab.research.google.com/github/pcarrenom/EAFIT_IntroRL and select the Notebook that you would like to run. You can save a copy of the notebook in your GitHub or Google Drive using File -> Save a copy.
+Open http://colab.research.google.com/github/pcarrenom/RL-Practicals and select the Notebook that you would like to run. You can save a copy of the notebook in your GitHub or Google Drive using File -> Save a copy.
 
 ## Running locally
 Create a virtual environment running Python 3.12 and install dependencies provided in requirements.txt
